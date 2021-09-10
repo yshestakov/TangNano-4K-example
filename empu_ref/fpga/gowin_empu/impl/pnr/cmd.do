@@ -1,0 +1,10 @@
+-d D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\impl\gwsynthesis\gowin_empu.vg
+-p GW1NSR-4C-QFN48P-7
+-pn GW1NSR-LV4CQN48PC7/I6
+-cst D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\gowin_empu.cst
+-cfg D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\impl\pnr\device.cfg
+-sdc D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\gowin_empu.sdc
+-bit
+-tr
+-ph
+-timing

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NSR-4C" package="QFN48P" speed="7" partNumber="GW1NSR-LV4CQN48PC7/I6"/>
+    <FileList>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\ahb_multiple.v" type="verilog"/>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\apb2_decoder.v" type="verilog"/>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\apb_multiple.v" type="verilog"/>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\gowin_empu\gowin_empu.v" type="verilog"/>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\gowin_empu_template.v" type="verilog"/>
+        <File path="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\src\emcu_pllvr\emcu_pllvr.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\Downloads\sipeed-nano-4k\Gowin EDA\Gowin_EMPU(GW1NS-4C)_V1.1.2\ref_design\FPGA_RefDesign\DK_START_GW1NSR4C_QN48P_V1.1\gowin_empu\impl\gwsynthesis\gowin_empu.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="Gowin_EMPU_Template"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-2008"/>
+    </OptionList>
+</Project>
